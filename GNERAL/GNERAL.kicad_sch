@@ -455,7 +455,6 @@
     )
   )
 
-
   (junction (at 158.75 74.93) (diameter 0) (color 0 0 0 0)
     (uuid 0366d7f5-0842-4029-96fa-884ed7b60222)
   )
@@ -952,7 +951,7 @@
     (property "Value" "Conn_01x05_Male" (id 1) (at 193.04 73.6599 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_JST:JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal" (id 2) (at 191.77 72.39 0)
+    (property "Footprint" "Connector_JST:JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal" (id 2) (at 191.77 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.77 72.39 0)
@@ -1014,7 +1013,7 @@
       (reference "R5") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/b46f5e0a-30c1-4d4d-a59a-f36ddee6a8ba"
-      (reference "VDD1") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_JST:JST_XH_S5B-XH-A_1x05_P2.50mm_Horizontal")
+      (reference "VDD1") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_JST:JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal")
     )
   )
 )
